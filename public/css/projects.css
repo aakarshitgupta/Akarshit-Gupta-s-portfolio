@@ -52,7 +52,7 @@
 }
 .langs{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
 }
 .lang{
     margin: 0px 10px;
