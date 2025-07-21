@@ -291,4 +291,14 @@ nav{
 100% {
     background-position: 0 0;
 }
+}   
+@media (max-width: 768px) {
+    .outerbox {
+        flex-direction: column;
+    }
+
+    .lt, .rt {
+        width: 100%;
+    }
 }
+
